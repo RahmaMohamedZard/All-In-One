@@ -10,6 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  math_expressions: ^2.3.0
+  flutter_simple_calculator: ^2.3.0 
+  simple_calculator_flutter: ^0.0.8 
 
 dev_dependencies:
   flutter_test:
